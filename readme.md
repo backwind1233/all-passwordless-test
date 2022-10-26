@@ -1,0 +1,1 @@
+[quick-start-mysql](https://learn.microsoft.com/zh-cn/azure/mysql/single-server/connect-java?tabs=passwordless)
